@@ -1,7 +1,7 @@
 # Sequences
 
 Sequences are used for sending multiple keystrokes in a single action, and can
-be used for things like unicode characters (even emojis! 🇨🇦), lorei epsum
+be used for things like unicode characters (even emojis! 🇨🇦), lorem ipsum
 generators, triggering side effects (think lighting, speakers,
 microcontroller-optimized cryptocurrency miners, whatever). If you are still
 unsure of what this is, most other vendors call these "Macros", but can do much
